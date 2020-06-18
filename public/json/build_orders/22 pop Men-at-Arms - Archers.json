@@ -1,0 +1,338 @@
+{
+  "description": "This build allows involves creating three (or four) militia while advancing and researching the men-at-arms upgrade upon hitting Feudal. This build is one way of buying time to mass archers, since your opponent is usually forced to deal with the men-at-arms in their base first. This build is quite tight (and therefore difficult), meaning horse collar usually needs to be skipped.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Stone"
+  ],
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "5 on berries"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 on sheep/boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "9"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 build [Barracks]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "2 on gold"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "9"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Feudal"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "8 on wood (4+4) / + farms"
+          }
+        ]
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "age_section",
+          "text": "FEUDAL"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "12 on wood (6+6) /"
+          },
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "4 on farms"
+          }
+        ]
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [2x Range] [Blacksmith]"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "8 on gold"
+          }
+        ]
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+ farms"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "18"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    }
+  ],
+  "title": "22 pop Men-at-Arms - Archers"
+}

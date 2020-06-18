@@ -1,0 +1,6339 @@
+[
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Classic, fast build - scouts can gain early map control, do early damage\r\n      before walls go up, and can effectively kill off"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "small groups of archers/skirms. They can also buy time for a player to\r\n      transition into ranges - which is usually needed,"
+    }
+  },
+
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "since archers once massed will begin to kill off scouts quite\r\n      easily."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "22 pop Scouts"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 331.34px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 380.57px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 477.07px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 522.94px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar, +1 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on boar / 2 to farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Rest to wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "10 on wood (5+5)"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Barracks]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Stable]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "14 farms"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "14"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_010",
+    "span": [
+      {
+        "@class": "cls_010",
+        "#text": "→"
+      },
+      {
+        "@class": "cls_005",
+        "#text": "Archers"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [2x Range] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "14"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 483.58px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+ farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "18"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 483.58px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_010",
+    "span": [
+      {
+        "@class": "cls_010",
+        "#text": "→"
+      },
+      {
+        "@class": "cls_005",
+        "#text": "Skirms"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Range] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on wood (6+6)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "14"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "14"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+ farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "18"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_010",
+    "span": [
+      {
+        "@class": "cls_010",
+        "#text": "→"
+      },
+      {
+        "@class": "cls_005",
+        "#text": "CASTLE"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5 on gold / +2 on farms (16)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "16"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "This is a ‘slower’ buildǰ since archers need to be massed to be\r\n      effective. Unlike scoutsǰ the aim is to keep the ranges"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "working constantly - archers also need fletching as a minimum to be\r\n      effective. This is often a poor build to use for 1v1,"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "partly because it is quite weak against the faster scout build, so it is\r\n      mainly used in team games as flank where its"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "weaknesses can be covered by other players."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "23 pop Archers"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on boar / 1 to farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Rest to wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "11 on wood (6+5) / 3 to gold"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "11"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Barracks]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [2x Range] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "8 on gold"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "11"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+ farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "18"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "11"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "This build allows involves creating three (or four) militia while\r\n      advancing and researching the men-at-arms upgrade"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "upon hitting Feudal. This build is one way of buying time to mass\r\n      archers, since your opponent is usually forced to"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "deal with the men-at-arms in their base first. This build is quite tight\r\n      (and therefore difficult), meaning horse collar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "usually needs to be skipped."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "22 pop Men-at-Arms - Archers"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on sheep/boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 build [Barracks]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "8 on wood (4+4) / + farms"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "12 on wood (6+6) /"
+      },
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "4 on farms"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [2x Range] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "8 on gold"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+ farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "18"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Towers can be used to deny map control and resources, and since\r\n      men-at-arms have no counter in early Feudal, they"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "are ideal for protecting forward villagers. This is one of the most\r\n      effective ways of executing a tower rush."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "22 pop Men-at-Arms - Towers"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+3 on sheep/boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 285px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 build [Barracks]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 285px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↓"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "0 on gold*, 5 on stone, 5 forward"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 533.5px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_019",
+    "span": {
+      "@class": "cls_019",
+      "#text": "*after 40g for the men-at-arms upgrade"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "A Dark Age rush; three militia created in Dark Age used to delay the\r\n      opponent. This is another way of buying time to"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "mass archers. At time of writing, this build has become less popular,\r\n      with the men-at-arms build being preferred. It"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "can be quite weak against the men-at-arms build, since the opponent will\r\n      have militia to defend, which can then be"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "upgraded after they hit Feudal first."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "28 pop Drush - Archers"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 mine 10 gold, then wood (5)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 build [Barracks]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Rest to sheep / 3 to farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 285px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "12 on wood (6+6), 4 to gold"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [2x Range] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "8 on gold"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+ farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "18"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "A drush can also be used to buy time to perform a fast Castle. This has\r\n      also gone out of fashion at the time of writing,"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "though it can still sometimes be pulled off with a good map. Research\r\n      fletching as a minimum for the crossbows."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "32+2 pop Drush FC - Crossbows"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 mine 10 gold, then wood (5)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 build [Barracks]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "8 on wood"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on berries (6)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Rest to sheep / 8 to farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 to gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Range] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Castle"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "8 on gold /"
+      },
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "12 on wood (6+6)"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": [
+      {
+        "@class": "cls_004",
+        "#text": "Build [2"
+      },
+      {
+        "@class": "cls_020",
+        "#text": "nd"
+      },
+      {
+        "@class": "cls_004",
+        "#text": "Range]"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 farms (10)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Place two extra town centers upon hitting Castle and maintain production\r\n      from all three. In Castle, set all gather"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "points to wood, and build farms as soon as wood becomes available.\r\n      Leaving villagers on gold means food can be"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "bought if needed, and it can also be used to buy stone for a fourth town\r\n      center later. Usually, only use on closed maps."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "27+2 pop FC - Boom"
+    }
+  },
+  {
+    "@style": "position: relative; left: 257.16px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms Wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 487.9px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 280.68px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 280.68px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 422.81px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 280.68px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 422.81px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 280.68px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 337.82px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 422.81px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on boar / 2 to farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 280.68px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 337.82px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 381.77px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 422.81px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑9"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "on wood (5+4)"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 280.68px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 337.82px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 381.77px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 422.81px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 280.68px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 337.82px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 381.77px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 422.81px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 497.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "8 on farms"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 337.82px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 381.77px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 422.81px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 497.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Market] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 337.82px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 381.77px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 420.17px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "11"
+    }
+  },
+  {
+    "@style": "position: relative; left: 497.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Castle"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "14 on wood (7+7)"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 337.82px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 381.77px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 420.17px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "14"
+    }
+  },
+  {
+    "@style": "position: relative; left: 497.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Usually done from pocket position in team games. Knights are ideal from\r\n      this position because of their mobility, but"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "the crossbowmen build might occasionally be used depending on the civ.\r\n      This allows for at least six knights to be"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "produced from both, followed by constant production from one\r\n      stable."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "28+2 pop FC - Knights"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on boar / 2 to farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "10 on wood (5+5)"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "8 on farms"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Barracks]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Stable] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on gold (5)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Castle"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 farms (10)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": [
+      {
+        "@class": "cls_004",
+        "#text": "Build [2"
+      },
+      {
+        "@class": "cls_020",
+        "#text": "nd"
+      },
+      {
+        "@class": "cls_004",
+        "#text": "Stable]"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Fast Castle and have the stone to build one when you reach it. Sometimes\r\n      used as pocket with civs such as"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Burmese/Mayans/Spanish. Eco balance while advancing to Castle will vary\r\n      according to the civ and their unique unit."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "28+2 pop FC - Unique Unit"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on boar / 2 to farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "9 on wood (5+4)"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2 on stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 533.5px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "7 on farms / +2 on stone (4)"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 533.5px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Market] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on stone (6)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 533.5px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Generic water build; fast Feudal with four fishing ships, followed by\r\n      constant production from two, then three docks"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "shortly after. It is usual to start with fire galleys; fletching is\r\n      necessary if switching to galleys."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "26 pop Fire Galleys"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 526.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Fish"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 build [Dock]*"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on wood (6)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Rest to sheep/boar / 4 fish"
+    }
+  },
+  {
+    "@style": "position: relative; left: 285px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "14"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 533.5px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "15 on wood (8+7) /"
+      },
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "5 on gold"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "15"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 533.5px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": [
+      {
+        "@class": "cls_004",
+        "#text": "Build [2"
+      },
+      {
+        "@class": "cls_020",
+        "#text": "nd"
+      },
+      {
+        "@class": "cls_004",
+        "#text": "Dock]"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "6 on gold"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "15"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 533.5px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": [
+      {
+        "@class": "cls_004",
+        "#text": "Build [3"
+      },
+      {
+        "@class": "cls_020",
+        "#text": "rd"
+      },
+      {
+        "@class": "cls_004",
+        "#text": "Dock]"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": {
+      "@class": "cls_009",
+      "#text": "Rest to food"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "15"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 533.5px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Blacksmith] [Market]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_019",
+    "span": {
+      "@class": "cls_019",
+      "#text": "*this villager becomes the designated builder, and will build houses and\r\n      other buildings from here on as needed"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Generic build - faster than the earlier FC builds. Pushing deer for an\r\n      eco-boost and earlier up-time is standard on"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Arena, but these builds can be done without. Also, skip loom if possible\r\n      for these builds. For fast Castle with"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "stable/range advance with +1 pop - see note."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "26+2 pop Arena FC"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on boar / 2 to farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "8 on wood (4+4)* /"
+      },
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "5 on farms"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Market] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 villagers"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_019",
+    "span": {
+      "@class": "cls_019",
+      "#text": "*for Stable/Range instead of Market, add one more to wood here and\r\n      advance with +1 pop; build [Barracks] whilst advancing"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Generic build. Again, pushing deer would improve these builds. Turks are\r\n      one of the most viable for a fast Imperial"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "due to their strong, faster gunpowder. Get double-bit axe while advancing\r\n      to Castle."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "31+2+2 pop FI"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "9 on wood (5+4)"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": [
+      {
+        "@class": "cls_002",
+        "#text": "+5 on sheep/boar /"
+      },
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "12 on farms"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 285px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↓"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "0"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 387.05px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "12"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Market] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on gold (8)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "12"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "CASTLE"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Monastery] [Siege Workshop]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 villagers"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Byzantines are one of the best civs for a fast Imperial due to the\r\n      reduced cost, and they have strong options including"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "monks and gunpowder. Get double-bit axe while advancing to Castle."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Byzantine 28+2+2 pop FI"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "9 on wood (5+4)"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": [
+      {
+        "@class": "cls_002",
+        "#text": "+3 on sheep/boar,"
+      },
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "10 on farms"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 285px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↓"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "0"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 387.05px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "10"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Market] [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 on gold (6)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 389.45px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "CASTLE"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Monastery] [Siege Workshop]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+2 villagers"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "The Mongols scout rush is their signature strategy and an important one\r\n      to learn, since after their fast start they get"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "few other advantages until mid-late imp."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Mongol 18-19 pop Scouts"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Rest on sheep/boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 278.28px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10-11"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "3"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "8 on wood"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 283.32px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5-6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Build [Barracks]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Towers are the only thing the Koreans are good atǰ so it’s worth knowing\r\n      a build for them. Can be used with other"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "civs but will be less effective."
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Korean 19 pop Towers"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar / +2 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "9"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Rest on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 285px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "14"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2 to stone, +2 on wood (4), 6 forward"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 533.5px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "5 on stone, +2 on berries (4), 2 to farms"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 533.5px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "5"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Straight eagle scouts; allows constant production from two barracks upon\r\n      reaching Feudal. Requires both blacksmith"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "upgrades early on for them to be effective. Could be followed either with\r\n      ranges for archer transition, or a third"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "barracks for full eagles. Usually not viable against experienced\r\n      opponents, with men-at-arms - eagles being a better"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "(but still fairly uncommon) option. Aztecs are the most viable for this\r\n      build due to the shorter creation time. (More"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "commonly, eagle scouts would begin massing in late Feudal so there is an\r\n      army ready to upgrade upon reaching"
+    }
+  },
+  {
+    "@style": "position: relative; left: 36.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Castle.)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "22 pop Eagle Scouts"
+    }
+  },
+  {
+    "@style": "position: relative; left: 263.88px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Sheep/Boar Berries Farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 428.11px;",
+    "@class": "cls_006",
+    "span": {
+      "@class": "cls_006",
+      "#text": "Wood Gold Stone"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6 on sheep"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on wood"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "1 lure boar"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 on berries"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+3 on boar / 2 to farms"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "Rest to wood (7)"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "8"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_008",
+    "span": {
+      "@class": "cls_008",
+      "#text": "Advancing to Feudal"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4 to gold"
+    }
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 439.15px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "7"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [2x Barracks]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_005",
+    "span": {
+      "@class": "cls_005",
+      "#text": "FEUDAL"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_004",
+    "span": {
+      "@class": "cls_004",
+      "#text": "Build [Blacksmith]"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_009",
+    "span": [
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "10 on wood (5+5),"
+      },
+      {
+        "@class": "cls_009",
+        "#text": "↑"
+      },
+      {
+        "@class": "cls_002",
+        "#text": "6 on gold"
+      }
+    ]
+  },
+  {
+    "@style": "position: relative; left: 287.4px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 345.02px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "4"
+    }
+  },
+  {
+    "@style": "position: relative; left: 392.09px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "2"
+    }
+  },
+  {
+    "@style": "position: relative; left: 436.51px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "10"
+    }
+  },
+  {
+    "@style": "position: relative; left: 486.22px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "6"
+    }
+  },
+  {
+    "@style": "position: relative; left: 41.3px;",
+    "@class": "cls_002",
+    "span": {
+      "@class": "cls_002",
+      "#text": "+ farms"
+    }
+  }
+]

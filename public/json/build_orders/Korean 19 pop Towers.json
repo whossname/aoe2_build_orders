@@ -1,0 +1,206 @@
+{
+  "description": "Towers are the only thing the Koreans are good atǰ so it’s worth knowing a build for them. Can be used with other civs but will be less effective.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Stone"
+  ],
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "2 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar / +2 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "9"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "2 on berries"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "9"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "Rest on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "14"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Feudal"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "2 to stone, +2 on wood (4), 6 forward"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "6": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "age_section",
+          "text": "FEUDAL"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "5 on stone, +2 on berries (4), 2 to farms"
+          }
+        ]
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "6": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ]
+    }
+  ],
+  "title": "Korean 19 pop Towers"
+}

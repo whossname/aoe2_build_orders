@@ -1,0 +1,512 @@
+{
+  "description": "Classic, fast build - scouts can gain early map control, do early damage before walls go up, and can effectively kill off small groups of archers/skirms. They can also buy time for a player to transition into ranges - which is usually needed, since archers once massed will begin to kill off scouts quite easily.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Stone"
+  ],
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "3 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar, +1 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on berries"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 on boar / 2 to farms"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "Rest to wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Feudal"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "10 on wood (5+5)"
+          }
+        ]
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [Barracks]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "age_section",
+          "text": "FEUDAL"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [Stable]"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "14 farms"
+          }
+        ]
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "14"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow_right",
+            "text": "→"
+          },
+          {
+            "class": "age_section",
+            "text": "Archers"
+          }
+        ]
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [2x Range] [Blacksmith]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "10 on gold"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "14"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "10"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+ farms"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "18"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "10"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow_right",
+            "text": "→"
+          },
+          {
+            "class": "age_section",
+            "text": "Skirms"
+          }
+        ]
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [Range] [Blacksmith]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 on wood (6+6)"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "14"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on gold"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "14"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+ farms"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "18"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow_right",
+            "text": "→"
+          },
+          {
+            "class": "age_section",
+            "text": "CASTLE"
+          }
+        ]
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [Blacksmith]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "5 on gold / +2 on farms (16)"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "16"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "10"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ]
+    }
+  ],
+  "title": "22 pop Scouts"
+}

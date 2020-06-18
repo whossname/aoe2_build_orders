@@ -1,0 +1,404 @@
+{
+  "description": "A drush can also be used to buy time to perform a fast Castle. This has also gone out of fashion at the time of writing, though it can still sometimes be pulled off with a good map. Research fletching as a minimum for the crossbows.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Stone"
+  ],
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on berries"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 mine 10 gold, then wood (5)"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 build [Barracks]"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "8 on wood"
+          }
+        ]
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 on berries (6)"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "Rest to sheep / 8 to farms"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Feudal"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 to gold"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "age_section",
+          "text": "FEUDAL"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [Range] [Blacksmith]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 on gold"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Castle"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "8 on gold /"
+          },
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "12 on wood (6+6)"
+          }
+        ]
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "build",
+            "text": "Build [2"
+          },
+          {
+            "class": "superscript",
+            "text": "nd"
+          },
+          {
+            "class": "build",
+            "text": "Range]"
+          }
+        ]
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 farms (10)"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "10"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    }
+  ],
+  "title": "32+2 pop Drush FC - Crossbows"
+}

@@ -1,0 +1,304 @@
+{
+  "description": "This is a ‘slower’ buildǰ since archers need to be massed to be effective. Unlike scoutsǰ the aim is to keep the ranges working constantly - archers also need fletching as a minimum to be effective. This is often a poor build to use for 1v1, partly because it is quite weak against the faster scout build, so it is mainly used in team games as flank where its weaknesses can be covered by other players.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Stone"
+  ],
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on berries"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 on boar / 1 to farms"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "1"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "Rest to wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "1"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Feudal"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "11 on wood (6+5) / 3 to gold"
+          }
+        ]
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "1"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "11"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [Barracks]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "age_section",
+          "text": "FEUDAL"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [2x Range] [Blacksmith]"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "8 on gold"
+          }
+        ]
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "1"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "11"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+ farms"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "18"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "11"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    }
+  ],
+  "title": "23 pop Archers"
+}

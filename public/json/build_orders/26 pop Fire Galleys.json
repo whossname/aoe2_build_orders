@@ -1,0 +1,293 @@
+{
+  "description": "Generic water build; fast Feudal with four fishing ships, followed by constant production from two, then three docks shortly after. It is usual to start with fire galleys; fletching is necessary if switching to galleys.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Fish"
+  ],
+  "note": "*this villager becomes the designated builder, and will build houses and other buildings from here on as needed",
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 build [Dock]*"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 on wood (6)"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "Rest to sheep/boar / 4 fish"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "14"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "6": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Feudal"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "15 on wood (8+7) /"
+          },
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "5 on gold"
+          }
+        ]
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "15"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "6": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "build",
+            "text": "Build [2"
+          },
+          {
+            "class": "superscript",
+            "text": "nd"
+          },
+          {
+            "class": "build",
+            "text": "Dock]"
+          }
+        ]
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "age_section",
+          "text": "FEUDAL"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "6 on gold"
+          }
+        ]
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "15"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "6": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "build",
+            "text": "Build [3"
+          },
+          {
+            "class": "superscript",
+            "text": "rd"
+          },
+          {
+            "class": "build",
+            "text": "Dock]"
+          }
+        ]
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "arrow",
+          "text": "Rest to food"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "15"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "6": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [Blacksmith] [Market]"
+        }
+      ]
+    }
+  ],
+  "title": "26 pop Fire Galleys"
+}
