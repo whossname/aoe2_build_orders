@@ -1,0 +1,352 @@
+{
+  "description": "Fast Castle and have the stone to build one when you reach it. Sometimes used as pocket with civs such as Burmese/Mayans/Spanish. Eco balance while advancing to Castle will vary according to the civ and their unique unit.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Stone"
+  ],
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "5 on berries"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 on boar / 2 to farms"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "9 on wood (5+4)"
+          }
+        ]
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "2 on gold"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "9"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "2 on stone"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "9"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "6": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Feudal"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "7 on farms / +2 on stone (4)"
+          }
+        ]
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "9"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "6": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "age_section",
+          "text": "FEUDAL"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [Market] [Blacksmith]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 on stone (6)"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "9"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "6": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    }
+  ],
+  "title": "28+2 pop FC - Unique Unit"
+}

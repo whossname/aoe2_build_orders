@@ -1,0 +1,168 @@
+{
+  "description": "The Mongols scout rush is their signature strategy and an important one to learn, since after their fast start they get few other advantages until mid-late imp.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Stone"
+  ],
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "3 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on berries"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "Rest on sheep/boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "10-11"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Feudal"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "8 on wood"
+          }
+        ]
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "5-6"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "Build [Barracks]"
+        }
+      ]
+    }
+  ],
+  "title": "Mongol 18-19 pop Scouts"
+}

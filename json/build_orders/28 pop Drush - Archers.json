@@ -1,0 +1,286 @@
+{
+  "description": "A Dark Age rush; three militia created in Dark Age used to delay the opponent. This is another way of buying time to mass archers. At time of writing, this build has become less popular, with the men-at-arms build being preferred. It can be quite weak against the men-at-arms build, since the opponent will have militia to defend, which can then be upgraded after they hit Feudal first.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Stone"
+  ],
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on berries"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 mine 10 gold, then wood (5)"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 build [Barracks]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "Rest to sheep / 3 to farms"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Feudal"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "12 on wood (6+6), 4 to gold"
+          }
+        ]
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "age_section",
+          "text": "FEUDAL"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [2x Range] [Blacksmith]"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "8 on gold"
+          }
+        ]
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+ farms"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "18"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "12"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    }
+  ],
+  "title": "28 pop Drush - Archers"
+}

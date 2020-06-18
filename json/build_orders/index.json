@@ -1,0 +1,28 @@
+{
+  "drush": [
+    "28 pop Drush - Archers",
+    "32+2 pop Drush FC - Crossbows"
+  ],
+  "fast_castle": [
+    "27+2 pop FC - Boom",
+    "28+2 pop FC - Knights",
+    "28+2 pop FC - Unique Unit",
+    "26+2 pop Arena FC"
+  ],
+  "fast_imperial": [
+    "31+2+2 pop FI",
+    "Byzantine 28+2+2 pop FI"
+  ],
+  "flush": [
+    "22 pop Scouts",
+    "23 pop Archers",
+    "22 pop Men-at-Arms - Archers",
+    "22 pop Men-at-Arms - Towers",
+    "Mongol 18-19 pop Scouts",
+    "Korean 19 pop Towers",
+    "22 pop Eagle Scouts"
+  ],
+  "water": [
+    "26 pop Fire Galleys"
+  ]
+}

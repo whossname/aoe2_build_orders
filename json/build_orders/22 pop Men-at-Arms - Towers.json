@@ -1,0 +1,207 @@
+{
+  "description": "Towers can be used to deny map control and resources, and since men-at-arms have no counter in early Feudal, they are ideal for protecting forward villagers. This is one of the most effective ways of executing a tower rush.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Stone"
+  ],
+  "note": "*after 40g for the men-at-arms upgrade",
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on berries"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+3 on sheep/boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "10"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 build [Barracks]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "2 on gold"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "10"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "advancing_section",
+          "text": "Advancing to Feudal"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↓"
+          },
+          {
+            "class": "normal",
+            "text": "0 on gold*, 5 on stone, 5 forward"
+          }
+        ]
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "6": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ]
+    }
+  ],
+  "title": "22 pop Men-at-Arms - Towers"
+}

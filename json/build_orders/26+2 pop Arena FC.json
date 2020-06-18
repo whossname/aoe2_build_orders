@@ -1,0 +1,235 @@
+{
+  "description": "Generic build - faster than the earlier FC builds. Pushing deer for an eco-boost and earlier up-time is standard on Arena, but these builds can be done without. Also, skip loom if possible for these builds. For fast Castle with stable/range advance with +1 pop - see note.",
+  "headers": [
+    "Sheep/Boar",
+    "Berries",
+    "Farms",
+    "Wood",
+    "Gold",
+    "Stone"
+  ],
+  "note": "*for Stable/Range instead of Market, add one more to wood here and advance with +1 pop; build [Barracks] whilst advancing",
+  "rows": [
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "6 on sheep"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "4 on wood"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "6"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "1 lure boar"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "5 on berries"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 on boar / 2 to farms"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "7"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "2"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "0": [
+        [
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "8 on wood (4+4)* /"
+          },
+          {
+            "class": "arrow",
+            "text": "↑"
+          },
+          {
+            "class": "normal",
+            "text": "5 on farms"
+          }
+        ]
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "3 on gold"
+        }
+      ],
+      "1": [
+        {
+          "class": "normal",
+          "text": "4"
+        }
+      ],
+      "2": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "3": [
+        {
+          "class": "normal",
+          "text": "5"
+        }
+      ],
+      "4": [
+        {
+          "class": "normal",
+          "text": "8"
+        }
+      ],
+      "5": [
+        {
+          "class": "normal",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "age_section",
+          "text": "FEUDAL"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "build",
+          "text": "Build [Market] [Blacksmith]"
+        }
+      ]
+    },
+    {
+      "0": [
+        {
+          "class": "normal",
+          "text": "+2 villagers"
+        }
+      ]
+    }
+  ],
+  "title": "26+2 pop Arena FC"
+}
