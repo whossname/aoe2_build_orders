@@ -1,5 +1,4 @@
 /node_modules/
-/public/build/
 
 .DS_Store
 reference/converted_pdf_to_html/parse_json/_build

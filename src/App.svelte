@@ -13,8 +13,6 @@
       .catch(err => console.error(err));
   };
 
-  setBuildOrder("28 pop Drush - Archers");
-
   const clearBuildOrder = () => {
     buildOrder = null;
   };
