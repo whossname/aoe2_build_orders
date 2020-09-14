@@ -36,7 +36,6 @@
     color: white;
     cursor: pointer;
     padding: 18px;
-    padding-left: 80px;
     margin-bottom: 0;
     width: 85%;
     border: none;
@@ -150,7 +149,7 @@
 
 <div class="header">
   <button type="button" class="title-btn" on:click={clearBuildOrder}>
-    {buildOrder.title}
+    &lArr; {buildOrder.title}
   </button>
 
   <button type="button" class="description-toggle" on:click={toggleDescription}>
