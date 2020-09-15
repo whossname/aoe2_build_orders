@@ -4,7 +4,6 @@
 
   let params = new URLSearchParams(document.location.search);
   let orderName = params.get("orderName");
-  console.dir(orderName);
   let buildOrder = null;
 
   const setBuildOrder = order => {
@@ -25,7 +24,6 @@
 
   if (orderName) {
     buildOrder = setBuildOrder(orderName);
-    console.dir(buildOrder);
   }
 </script>
 
