@@ -19,7 +19,7 @@
     "svelte": "^3.25.0"
   },
   "dependencies": {
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "sirv-cli": "^1.0.6"
   }
 }
